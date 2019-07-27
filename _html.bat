@@ -1,6 +1,6 @@
 echo off
 set cd=%1
-set htmlcreator=C:\Users\Almas\Desktop\GitHub\htmlcreator-templates\%2.html
+set htmlcreator=TemplatesPath\%2.html
 cd %cd%
 copy %htmlcreator% index.html
 md js
