@@ -5,6 +5,8 @@ cd %cd%
 copy %htmlcreator% index.html
 md js
 md css
+md img
+md lib
 cd js
 copy NUL index.js
 cd %cd%
