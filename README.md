@@ -1,8 +1,10 @@
 # htmlcreator
 bat file which create template of html files:
   - **simple** - simple empty html file with *СSS* and *JS* files binding
-  - **bootsjqr** - empty html file with *Bootstrap* and *jQuery* libraries binding
-  - **bootsjqr-1** - html file filled with a *Bootstrap* template
+  - **bts** - empty html file with *Bootstrap* and *jQuery* libraries binding
+  - **bts-1** - html file filled with a *Bootstrap* template
+  - **font** - html file with *Bootstrap* and *jQuery* libraries binding and with *Google font* style
+  - **data-aos** - html file with *Bootstrap*, *jQuery* and *data-aos* libraries binding
 ### How to use it:
 Install the `_html.bat` on the desktop and hide it, but firstly open it **change the path to your templates**
 ```bat
