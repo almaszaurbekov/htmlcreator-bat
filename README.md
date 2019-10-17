@@ -4,9 +4,9 @@ bat file which create template of html files:
   - **bts** - empty html file with *Bootstrap* and *jQuery* libraries binding
   - **bts-fill** - html file filled with a *Bootstrap* template
   - **bts-4** - html file filled with a *Bootstrap 4* template
-  - **data-aos** - html file filled with a *Data-Aos* library template
-  - **font** - html file with beautiful font links
-  
+  - **font** - html file with *Bootstrap* and *jQuery* libraries binding and with *Google font* style
+  - **data-aos** - html file with *Bootstrap*, *jQuery* and *data-aos* libraries binding
+>>>>>>> 9f4c2ff28cdef5c7258aa1767c9c4e7cd0d08a77
 ### How to use it:
 Install the `_html.bat` on the desktop and hide it, but firstly open it **change the path to your templates**
 ```bat
