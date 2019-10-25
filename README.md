@@ -16,12 +16,12 @@ set htmlcreator=TemplatesPath\%2.html
 ```
 Once you have successfully specified the path to your templates, all you need to do is:
 - Сreate a folder (*no matter where*)
-- Copy the address bar of the created folder
+- Copy the address bar of the created folder (*don't forget to write it inside quotation marks*)
 - Open a command prompt on the desktop
 - Enter the following command below
 ### To run:
 ```cmd
-C:\Users\User\Desktop> _html C:\CreatedFolderPath simple
+C:\Users\User\Desktop> _html "C:\CreatedFolderPath" simple
 ```
 - `_html` - *first argument*, which mean that you are running the bat file
 - `C:\CreatedFolderPath` - *second arg.*, path to the folder where you want to initialize the template of html file
