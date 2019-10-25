@@ -16,7 +16,7 @@ set htmlcreator=TemplatesPath\%2.html
 ```
 Once you have successfully specified the path to your templates, all you need to do is:
 - Сreate a folder (*no matter where*)
-- Copy the address bar of the created folder (*don't forget to write it inside quotation marks*)
+- Copy the address bar of the created folder (**don't forget to write it inside quotation marks**)
 - Open a command prompt on the desktop
 - Enter the following command below
 ### To run:
